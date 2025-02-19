@@ -1,4 +1,4 @@
-# Tugas Website Proil Day 1 ARC ITB
+# Tugas Website Profil Day 1 ARC ITB
 
 Tugas website profil sederhana dengan hanya menggunakan html dan css untuk tugas Day 1 ARC ITB
 
