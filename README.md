@@ -5,9 +5,7 @@ Tugas website profil sederhana dengan hanya menggunakan html dan css untuk tugas
 ## Profil
 
 - Renuno Yuqa Frinardi 
-<br/>
 - NIM 19624126/13524080
-<br/>
 - Fakultas STEI-Komputasi/Jurusan Teknik Informatika 2024
 
 ## Deskripsi dari isi website
